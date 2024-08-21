@@ -142,7 +142,7 @@ Sentence_ID,Token,Label
 156,boyfriend,n
 156,wanted,n
 156,a,n
-156,hand-job,n
+156,hand-job,B-B
 156,but,n
 156,i,n
 156,could,n
